@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    }
+]

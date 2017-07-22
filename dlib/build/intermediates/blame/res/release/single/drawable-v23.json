@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/mathayus/opencv/android/app/dlib-android-app/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/media/mathayus/Windows/Users/mathayus/Desktop/Coding/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/media/mathayus/Windows/Users/USER - HP/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/mathayus/Desktop/opencv/android/app/SoftProj/dlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
